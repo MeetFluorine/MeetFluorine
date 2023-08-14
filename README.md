@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Chandan Yadav</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate front-end developer & programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetfluorine&label=Profile%20views&color=0e75b6&style=flat" alt="meetfluorine" /> </p>
