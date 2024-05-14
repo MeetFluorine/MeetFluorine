@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/meet_fluorine" target="blank"><img src="https://img.shields.io/twitter/follow/meet_fluorine?logo=twitter&style=for-the-badge" alt="meet_fluorine" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Bootstrap**
+- 🌱 I’m currently learning **ReactJs, Tailwind css**
 
 - 👨‍💻 All of my projects are available at [https://meetfluorine.github.io/Portfolio/](https://meetfluorine.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/meet-chandan-yadav-37419a227/](https://www.linkedin.com/in/meet-chandan-yadav-37419a227/)
 
-- 💬 Ask me about **Web development, Front-end development, Python, C++**
+- 💬 Ask me about **Web development, Front-end development, JAVA, C++**
 
 - 📫 How to reach me **chandangee77@gmail.com**
 
